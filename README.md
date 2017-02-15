@@ -25,29 +25,51 @@ Rendez-vous dans le dossier du plugin mail, puis dans le fichier mail.prop ouvre
 Sa donne cela:
 
 {
+
   "modules" : { 
+  
     "mail"  : {
+    
       "description": "reception des titre de vaux mail",
+      
       "version"    : "3.16",
+      
       "email"      : "votre adresse mail",
+      
       "password"   : "votre mot de passe de votre adresse mail gmail",
+      
       "smtp"       : "smtp.gmail.com",
+      
       "imap"       : "imap.gmail.com",
+      
       "ssl"        : "true",
+      
       "to"         : ""
+      
     }
+    
   },
   
   "cron" : {
+  
     "mail" :   { 
+    
       "name"       : "mail",
+      
       "description": "Interroge périodiquement un compte Mail pour effectuer des actions: lecture audio, tts, actions",
+      
       "time"       : "0 */1 * * * *",
+      
       "inbox"      : "Inbox",
+      
       "speechbox"  : "",
+      
       "recobox"    : ""
+      
     }
+    
   }
+  
 }
 
 Alors vous avez juste a metre votre adresse mail gmail ou c'est marquer "email" : "votre adresse mail",
