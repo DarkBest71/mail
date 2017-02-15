@@ -1,5 +1,6 @@
 # mail
-Auteur: Avatar Rousseau Dark-Bes
+Auteur: Avatar Rousseau Dark-Best.
+
 Ce plugin mail fonctionne pour le moment avec Gmail.
 
 # version 3.16
@@ -12,7 +13,9 @@ Le plugin mail est capable d’interroger votre boite mail (IMAP) afin d’effec
 # Explication fonctionnement:
 
 Déjà j'ai fait en sorte que le plugin soit déjà réglé , 
+
 vous avec juste a mettre votre adresse mail de Gmail, est le mot de passe de vottre Gmail.
+
 Mail on c'est jamais je vais mettre les réglage ici
 
 # Exemple:
@@ -48,6 +51,7 @@ Sa donne cela:
 }
 
 Alors vous avez juste a metre votre adresse mail gmail ou c'est marquer "email" : "votre adresse mail",
+
 est le mot d passe de votre adresse mail gmail: "password" : "votre mot de passe de votre adresse mail gmail",
 
 Voilà teste le.
