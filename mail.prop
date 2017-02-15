@@ -3,8 +3,8 @@
     "mail"  : {
       "description": "reception des titre mail",
       "version"    : "3.16",
-      "email"      : "avatardu33@gmail.com",
-      "password"   : "avatarrousseau251184",
+      "email"      : "votre adresse mail",
+      "password"   : "votre mot de passe de votre adresse mail gmail",
       "smtp"       : "smtp.gmail.com",
       "imap"       : "imap.gmail.com",
       "ssl"        : "true",
