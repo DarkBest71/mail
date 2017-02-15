@@ -6,7 +6,7 @@ Ce plugin mail fonctionne pour le moment avec Gmail.
 # version 3.16
 Le plugin mail permettant de lire le ( Titre de vaux mails ) mais pas son contenue.
 
-Mails d’alerte ou de notification des titre de vaux mails via sarah.
+Mails d’alerte ou de notification des titres de vaux mails via Sarah.
 
 Le plugin mail est capable d’interroger votre boite mail (IMAP) afin d’effectuer la lecure. 
 
@@ -14,9 +14,9 @@ Le plugin mail est capable d’interroger votre boite mail (IMAP) afin d’effec
 
 Déjà j'ai fait en sorte que le plugin soit déjà réglé , 
 
-vous avec juste a mettre votre adresse mail de Gmail, est le mot de passe de vottre Gmail.
+vous avec juste a mettre votre adresse mail de Gmail, est le mot de passe de votre Gmail.
 
-Mail on c'est jamais je vais mettre les réglage ici
+Mais on c'est jamais je vais mettre les réglages ici
 
 # Exemple:
 
@@ -70,7 +70,7 @@ Sa donne cela:
 
 Alors vous avez juste a metre votre adresse mail gmail ou c'est marquer "email" : "votre adresse mail",
 
-est le mot d passe de votre adresse mail gmail: "password" : "votre mot de passe de votre adresse mail gmail",
+est le mot de passe de votre adresse mail gmail: "password" : "votre mot de passe de votre adresse mail gmail",
 
 Faite c'est réglage dans le home aussi on c'est jamais si ce n'est pas pris en compte sur le fichier mail.prop
 
