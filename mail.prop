@@ -15,7 +15,7 @@
   "cron" : {
     "mail" :   { 
       "name"       : "mail",
-      "description": "Interroge périodiquement votre compte Mail Gmail pour effectuer des actions: lecture audio, tts, actions",
+      "description": "Interroge votre compte Mail Gmail pour effectuer des actions: lecture audio, tts, actions",
       "time"       : "0 */1 * * * *",
       "inbox"      : "Inbox",
       "speechbox"  : "",
