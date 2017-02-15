@@ -1,0 +1,11 @@
+.plugin-gridster.mail .front {
+  background: #55b5e6 url('images/Mail.gif') center 34px;
+  background-size:   90px 90px;
+  background-repeat: no-repeat;
+}
+
+.plugin-gridster.mail .back {
+  background: #55b5e6 url('images/gmail.jpg') center 34px;
+  background-size:   72px 61px;
+  background-repeat: no-repeat;
+}

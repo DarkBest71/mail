@@ -1,0 +1,25 @@
+{
+  "modules" : { 
+    "mail"  : {
+      "description": "reception des titre mail",
+      "version"    : "3.16",
+      "email"      : "avatardu33@gmail.com",
+      "password"   : "avatarrousseau251184",
+      "smtp"       : "smtp.gmail.com",
+      "imap"       : "imap.gmail.com",
+      "ssl"        : "true",
+      "to"         : ""
+    }
+  },
+  
+  "cron" : {
+    "mail" :   { 
+      "name"       : "mail",
+      "description": "Interroge périodiquement un compte Mail pour effectuer des actions: lecture audio, tts, actions",
+      "time"       : "0 */1 * * * *",
+      "inbox"      : "Inbox",
+      "speechbox"  : "",
+      "recobox"    : ""
+    }
+  }
+}
