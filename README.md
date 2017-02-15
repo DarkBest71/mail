@@ -72,4 +72,6 @@ Alors vous avez juste a metre votre adresse mail gmail ou c'est marquer "email" 
 
 est le mot d passe de votre adresse mail gmail: "password" : "votre mot de passe de votre adresse mail gmail",
 
+Faite c'est réglage dans le home aussi on c'est jamais si ce n'est pas pris en compte sur le fichier mail.prop
+
 Voilà teste le.
