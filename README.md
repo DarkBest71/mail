@@ -66,11 +66,7 @@ Sa donne cela:
       
       "recobox"    : ""
       
-    }
-    
-  }
-  
-}
+    }}}
 
 Alors vous avez juste a metre votre adresse mail gmail ou c'est marquer "email" : "votre adresse mail",
 
